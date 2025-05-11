@@ -6,7 +6,7 @@ import worldmap from './backgrounds/world-map.png';
 import logo from './logo/logo-black.png';
 import logotext from './logo/logo-text-black.png';
 
-import shaq from './personal/UI.GIF';
+
 
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
@@ -39,6 +39,8 @@ import postgresql from './tech/postgresql.png';
 import rubyrails from './tech/rubyrails.png';
 
 import Strydo from './company/Strydo.png';
+import alt from './company/alt.png';
+import Heptre from './company/Heptre.png';
 import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
@@ -57,7 +59,7 @@ export {
   worldmap,
   logo,
   logotext,
-  shaq,
+  // shaq,
   backend,
   ux,
   frontend,
@@ -93,7 +95,9 @@ export {
   nyeusi,
   space,
   Strydo,
+  alt,
   dcc,
   kelhel,
   microverse,
+  Heptre
 };

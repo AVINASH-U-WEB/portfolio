@@ -29,6 +29,8 @@ import {
   microverse,
 } from '../assets';
 import Strydo from '../assets/company/Strydo.png';
+import Heptre from '../assets/company/Heptre.png';
+import alt from '../assets/company/alt.png';
 import vvnkm from '../assets/company/vvnkm.png'
 import barath from '../assets/company/barath.png'
 import sda from '../assets/company/sda.png'
@@ -135,6 +137,30 @@ export const internships = [
     icon: Strydo,
     iconBg: '#333',
     date: 'June 1 2024 - JUN 31 2024',
+  },
+  {
+    id: 2,
+    title:'FullStack Development With Design',
+    company_name: 'ALTRUISTY',
+    icon: alt,
+    iconBg: '#333',
+    date: 'Dem 2024 – Feb 2025',
+  },
+  {
+    id: 3,
+    title:'FullStack Development ERP Software',
+    company_name: 'HEPTRE TECHWORKS ',
+    icon: Heptre,
+    iconBg: '#333',
+    date: 'Mar 2025- May ',
+  },
+  {
+    id: 4,
+    title:'FullStack Development  Software',
+    company_name: 'DEQCODEAI - Quantum Computing Startup  ',
+    icon: Strydo,
+    iconBg: '#333',
+    date: 'Mar 2025-Apr ',
   },
   // Add more internship experiences
 ];
@@ -253,8 +279,8 @@ const projects = [
   },
   {
     id: 'project-3',
-    name: 'Car Evolation',
-    description: 'The new landing page for Car Evolution showcases a sleek, modern design.',
+    name: 'AR-VR Game',
+    description: 'AR/VR Game features a sleek, immersive design that highlights interactive 3D experiences and modern web aesthetics.',
     tags: [
       {
         name: 'nextjs',
@@ -270,8 +296,8 @@ const projects = [
       },
     ],
     image: math,
-    repo: 'https://github.com/AVINASH-U-WEB/car-modern',
-    demo: 'https://car-modern.vercel.app/',
+    repo: 'https://github.com/AVINASH-U-WEB/AR-VR-Game',
+    demo: 'https://ar-vr-game.vercel.app/',
   },
   {
     id: 'project-4',
