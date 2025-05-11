@@ -59,7 +59,7 @@ export {
   worldmap,
   logo,
   logotext,
-  // shaq,
+  shaq,
   backend,
   ux,
   frontend,
